@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shedhood
-- 👀 I’m interested in ...
+- 👀 I’m interested in learning data analyst and Visualization 
 - 🌱 I’m currently learning ...data analyst 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...tshedrack51@gmail.com 
